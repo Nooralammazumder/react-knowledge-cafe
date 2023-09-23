@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "cover": "../src/assets/images/1.jpg",
+    "cover": "https://i.ibb.co/X7TytXk/4.jpg",
     "title": "Lorem Ipsum: The Art of Faking Data",
-    "author_img": "../src/assets/images/boy1.png",
+    "author_img": "https://i.ibb.co/xST3kFM/boy2.jpg",
     "author": "John Doe",
     "posted_date": "2023-09-20",
     "reading_time": "10",
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "cover": "../src/assets/images/2.png",
+    "cover": "https://i.ibb.co/zmXbtsY/1.jpg",
     "title": "Cooking Without Fire: A Culinary Adventure",
-    "author_img": "../src/assets/images/boy2.png",
+    "author_img": "https://i.ibb.co/fS1Ppzd/girl2.jpg",
     "author": "Jane Smith",
     "posted_date": "2023-09-21",
     "reading_time": "15",
@@ -21,9 +21,9 @@
   },
   {
     "id": 3,
-    "cover": "../src/assets/images/3.png",
+    "cover": "https://i.ibb.co/b5d1QCw/2.png",
     "title": "Discovering the Unknown: Exploring Space",
-    "author_img": "../src/assets/images/boy1.png",
+    "author_img": "https://i.ibb.co/xD6BjNw/boy1.png",
     "author": "Mark Johnson",
     "posted_date": "2023-09-22",
     "reading_time": "20",
@@ -31,9 +31,9 @@
   },
   {
     "id": 4,
-    "cover": "../src/assets/images/4.jpg",
+    "cover": "https://i.ibb.co/5WhKDkT/3.png",
     "title": "Artificial Intelligence: A Journey into the Future",
-    "author_img": "../src/assets/images/boy2.png",
+    "author_img": "https://i.ibb.co/fS1Ppzd/girl2.jpg",
     "author": "Emily Davis",
     "posted_date": "2023-09-23",
     "reading_time": "25",
